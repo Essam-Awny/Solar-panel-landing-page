@@ -126,6 +126,9 @@ button{
         padding: 10px 0;
         z-index: 1;
     }
+    .navbar{
+        justify-content: space-between;
+    }
     .menu:target {
         display: flex;
     }
